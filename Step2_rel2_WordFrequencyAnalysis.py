@@ -27,10 +27,10 @@ def main():
     print("Word frequency analysis complete. Saving results to file...")
     
     # 将高频词保存到文件
-    with open('word_frequencies.txt', 'w', encoding='utf-8') as f:
+    with open('word_frequencies_l.txt', 'w', encoding='utf-8') as f:
         for word, freq in word_freq.items():
             if freq > 20:
-                f.write(f"{word}: {freq}\n")
+                f.write(f"{word} \n")
     
     print("Word frequencies saved to word_frequencies.txt")
 
