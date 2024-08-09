@@ -1,0 +1,75 @@
+Cluster 1:
+what, for, are, or, that
+
+Cluster 24:
+would, has, jesus, into, john, god, sent, only, begotten, son, exclusive, sense, fathers, nature
+
+Cluster 4:
+a, simple, control, yet, work, nontrivial, amount, correct, phrase, contain, transcontinental, empire, arrange, yourselves, more, interesting, order, running, plot, final, x, puzzle, noobs, new, boundedness, sum, sinsinn, whats, wrong, constructions, dragons, big, green, eat, people, animate, objects, vials, holy, water, small, indent, text, using, subequations, phd, computational, mathematics, strong, mathematical, background, cant, we, prove, sat, np, complete, tseytin, transformation, ampleness, verifiable, faithfully, flat, count, number, display, vs, full, ashaya, soul, wild, realm, razor, interact, magnetic, door, lock, magnets, normally, warm, all, time, pdflatex, parse, webmantex, newtonian, general, relativistic, light, deflection, angle, between, numbers, i, shortcircuit, protection, circuit, odds, ratio, pvalue, replace, sun, nonnuclear, un, non, human, focalpoints, mottled, polygon, fill, qgis, way, christ, reusable, filter, furnace, eight, pieces, endgame, round, robin, tournament, won, reds, blues, voltage, cell, depends, intensity, passport, renewals, telescopes, catch, t, coronae, borealis, going, nova, highly, skilled, highskilled, achilles, pain, bike, cannot, clear, photos, megapixel, camera, setting, output, raster, bit, depth, efficient, method, than, copy, c, sequence, containers, assign, associative, split, column, lines, awk, having, competing, offers, benefit, job, search, cubic, concatenation, india, separate, variety, private, sector, professional, being, screened, reflections, powerful, gammaray, bursts, reveal, undetectable, distant, motor, replacement, kind, fallacy, involved, dialogue, ntptrace, peers, list, inconsistent, ntpq, write, register, ic, increase, tokens, per, parameter, training, trust, localhost, certificates, custom, package, found, mathematica, dice, pools, public, knowledge, dogs, vineyarddogs, s, worldflags, within, political, relations, scale, evaluatingsimplifying, involving, zeta, put, crescendo, top, staff, markings, sql, performing, join, elimination, neverbeforeseen, real, riskneutral, density, solder, aged, copper, patina, reason, advantage, playing, games, excitement, derived, incorrect, draw, flow, chart, attached, image, neutron, halflife, outside, nucleus, extended, terrain, rising, controller, giving, climb, clearance, wreath, product, generalized, symmetric, group, bamboo, crowdstrike, outage, flight, cancellations, eu, compensation, trend, keeping, delivery, certificate, attestation, de, remise, given, retrieving, french, fix, querying, measure, fresh, herbs, recipe, calls, tablespoon, chopped, herb, single, incredibly, pedal, duration, choose, applying, year, multi, entry, schengen, visa, component, graphql, query, effect, layout, service, response, regex, upper, matching, lowercase, string, square, roots, prime, had, attempt, salvage, nave, comprehension, been, studied, frei, sein, meaning, available, razer, problem, application, numerical, integration, riesz, representation, theorem, hilbert, built, field, division, doesnt, gordon, freeman, help, survivors, layer, features, map, canvas, forgot, anonymize, paper, doubleblind, review, primitive, obsession, make, domain, explicit
+
+Cluster 0:
+cityarcology, designed, survive, atomic, bombings, look, logic, hotter, heat, source, always, necessary, heated, there, official, standard, conventional, names, screen, ram, addresses, zx, spectrum, do, tip, vortices, seem, bend, inwards, plane, wing, possible, flying, superhuman, avoid, detection, todays, society, similar, themes, novels, handle, situations, when, ambiguous, whether, potential, passive, analytic, function, written, difference, two, monotonically, increasing, functions, align, without, each, bullet, point, table, cover, translation, word, ibn, some, rabbis, their, name, mean, enough, eg, she, bake, pie, ingredients, combine, ordered, pairs, lexicographically, earliest, permutation, initial, segment, nonnegative, integers, subject, divisibility, constraints, complex, doctors, overcharge, services, use, ssh, tunneling, assume, server, need, trusted, equivalent, accurate, phones, magnetometer, one, cvt, cars, appear, index, gears, during, normal, automatic, operation, much, candid, should, feedback, leaving, team, ask, interactive, user, respond, yes, no, radiocapable, transhumans, still, vocalise, eachother, kshsyntax, korn, shell, compatible, bash, specific, terms, breaking, up, english, words, rootscomponents, calculate, integral, unit, sphere, emperor, galaxy, after, fit, ring, zero, divisors, but, nilpotents, enable, access, local, disk, browsers, was, unintentionally, denied, transfer, very, slow, compared, sound, solids, finish, off, sudoku, lots, options, considered, translating, stay, adjective, trivializations, settheoretic, fiber, bundles, permutations, spelling, shift, stem, verb, reperire, which, programming, language, first, used, negative, indexing, counting, end, clang, able, evaluate, loops, getting, stuck, infinite, loop, check, long, rational, expression, contains, minus, large, patch, damp, break, matrix, extract, pipe, remnant, sleeve, assessing, model, logistic, regression, multiple, imputation, responding, entschuldigung, something, could, understand, impolite, homogeneous, linear, equations, add, pcie, card, motherboard, rebooting, safely, scriptural, basis, claim, siva, devotee, vishnu, proven, pure, least, thing, exists, multicity, itinerary, qantas, business, rewards, points, travellers, snowfall, reliably, common, injured, person, immobile, leg, around, agreement, puts, condition, file, also, apply, content, itself, under, cc, bysa, vscode, remove, incomingoutgoing, changes, graph
+
+Cluster 15:
+to
+
+Cluster 22:
+like, game, who, stopover, tourist, fact, gamesharp, joins, looks, casino
+
+Cluster 2:
+it, an
+
+Cluster 3:
+does, on, my, with, if, space
+
+Cluster 5:
+not, any, program, feynman, famously, criticized, shuttle, delivering, value, science, did, things, improve, regard, since
+
+Cluster 23:
+is
+
+Cluster 16:
+object, will, by, solar, predicted, interstellar, get, bound, system, knowing, its, speed, direction
+
+Cluster 11:
+be, can
+
+Cluster 13:
+of
+
+Cluster 12:
+how
+
+Cluster 19:
+the
+
+Cluster 17:
+in
+
+Cluster 18:
+why
+
+Cluster 21:
+at, believing, youre, staring, wont, suddenly, pop, out, existence, justifiable, unjustifiable
+
+Cluster 6:
+fantasy, over, where, book, series, about, lord, maybe, lady, rules, world, eternally, spring, summer, etc
+
+Cluster 7:
+bad, dust, fall, roof, house, so, detect, cheap, home, microscope, leveling, ground, removing, plastic, side, idea
+
+Cluster 8:
+have, as, philosophy, formal, theories, explain, many, religious, stories, apparently, die, others, persist, live, history
+
+Cluster 14:
+and
+
+Cluster 10:
+just, novel, evolution, from, neanderthals, us, superhumans, shedding, facial, skin, become, less, prognathous
+
+Cluster 9:
+this, switch, video, link, below, bill, jenkins, holds, down, before, launching, his, drag, car
+
+Cluster 20:
+secular, examples, moral, principles, religions, ethical, systems, find, hard, accept, justify
+

@@ -15,7 +15,7 @@ control: 2870
 yet: 2870
 it: 49871
 does: 35102
-not: 31070
+not: 27861
 work: 8271
 is: 131752
 hotter: 4757
@@ -80,9 +80,7 @@ detection: 4787
 todays: 4787
 society: 4787
 puzzle: 4845
-noob: 4845
-’: 14253
-s: 4845
+noobs: 4845
 new: 5066
 game: 14027
 bad: 9615
@@ -96,11 +94,9 @@ sum: 4846
 sinsinn: 4846
 believing: 4704
 that: 41912
-you: 4704
-re: 4704
+youre: 4704
 staring: 4704
-won: 9187
-t: 9463
+wont: 4704
 suddenly: 4704
 pop: 4704
 out: 9521
@@ -112,10 +108,9 @@ situations: 4461
 when: 14970
 ambiguous: 4461
 whether: 8889
-～られる: 4461
 potential: 4461
 passive: 4461
-can: 51514
+can: 48305
 any: 9956
 analytic: 9924
 function: 4962
@@ -182,7 +177,6 @@ their: 4831
 name: 5197
 mean: 17788
 enough: 4751
-—: 4751
 eg: 4751
 she: 9502
 will: 19169
@@ -197,7 +191,6 @@ pairs: 4780
 count: 4801
 number: 9602
 display: 4801
-99: 4801
 vs: 9075
 full: 4801
 ashaya: 4850
@@ -311,7 +304,6 @@ nonnuclear: 4887
 equivalent: 9168
 space: 24072
 un: 4667
-–: 4667
 non: 4667
 human: 4667
 focalpoints: 4667
@@ -326,11 +318,9 @@ way: 68
 one: 4038
 christ: 68
 jesus: 3954
-1: 6167
 reusable: 1952
 filter: 3904
 furnace: 1952
-5: 1952
 dust: 4823
 fall: 9655
 roof: 4823
@@ -373,6 +363,7 @@ round: 4483
 robin: 4483
 tournament: 4483
 who: 14014
+won: 4483
 reds: 4483
 blues: 4483
 voltage: 3437
@@ -417,6 +408,7 @@ unit: 4781
 sphere: 4781
 telescopes: 4759
 catch: 4759
+t: 4759
 coronae: 4759
 borealis: 4759
 going: 4759
@@ -431,9 +423,9 @@ pain: 4319
 after: 8256
 bike: 4636
 fit: 9050
+cannot: 3209
 clear: 3209
 photos: 3209
-48: 3209
 megapixel: 3209
 camera: 3209
 ring: 5165
@@ -509,9 +501,7 @@ considered: 9347
 separate: 4450
 variety: 4450
 translating: 4664
-“: 4664
 stay: 4664
-”: 4664
 adjective: 4664
 trivializations: 3963
 settheoretic: 3963
@@ -606,7 +596,6 @@ custom: 2691
 package: 2691
 found: 2691
 mathematica: 2691
-141: 2691
 dice: 4825
 pools: 4825
 public: 4825
@@ -625,7 +614,7 @@ things: 4773
 improve: 4773
 regard: 4773
 since: 4773
-1980s: 4773
+s: 4773
 worldflags: 620
 within: 620
 political: 151
@@ -675,7 +664,6 @@ real: 4005
 riskneutral: 4005
 density: 4005
 john: 3886
-49: 3886
 god: 3886
 sent: 3886
 only: 3886
@@ -713,8 +701,6 @@ solder: 2244
 aged: 2244
 copper: 2244
 patina: 2244
-竹马青梅: 2345
-青梅: 2345
 reason: 2042
 advantage: 2042
 playing: 2042
@@ -744,13 +730,11 @@ generalized: 1191
 symmetric: 1191
 group: 1191
 bamboo: 1092
-筋: 1092
 crowdstrike: 592
 outage: 592
 flight: 592
 cancellations: 592
 eu: 592
-261: 592
 compensation: 592
 trend: 592
 keeping: 221
@@ -801,7 +785,7 @@ prime: 302
 had: 354
 attempt: 354
 salvage: 354
-naïve: 354
+nave: 354
 comprehension: 354
 been: 354
 studied: 354
