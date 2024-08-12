@@ -8,7 +8,7 @@ import pandas as pd
 # Step 1: Load the Data and Preprocess
 def preprocess_text(text):
     text = text.lower()  # Convert to lowercase
-    text = re.sub(r'[^a-z\s]', '', text)  # Remove special characters and numbers
+    #text = re.sub(r'[^a-z\s]', '', text)  # Remove special characters and numbers
     return text
 
 def load_data(file_path):
@@ -23,11 +23,24 @@ def load_data(file_path):
 
 # Step 2: Calculate Word Frequencies
 def calculate_word_frequencies(text_data):
+    # Combine all text data into one string and then split into words
     all_words = ' '.join(text_data).split()
+    # Write all words to a file for inspection
+    with open('all_words.txt', 'w', encoding='utf-8') as f:
+        for word in all_words:
+            f.write(word + '\n')
+    print("All words have been written to 'all_words.txt'.")
+    # Count word frequencies using Counter
     word_freq = Counter(all_words)
+    # Print the length of the word_freq dictionary before filtering
+    print("Number of unique words before filtering:", len(word_freq))
     # Filter words with frequency >= 10
     word_freq = {word: freq for word, freq in word_freq.items() if freq >= 10}
+    # Print the length of the word_freq dictionary after filtering
+    print("Number of unique words after filtering:", len(word_freq))
+    
     return word_freq
+
 
 # Step 3: Build Co-occurrence Matrix
 def build_cooccurrence_matrix(text_data, word_freq):
@@ -39,14 +52,22 @@ def build_cooccurrence_matrix(text_data, word_freq):
 
 # Step 4: Perform Clustering
 def perform_clustering(cooccurrence_matrix, n_clusters):
-    clustering_model = AgglomerativeClustering(n_clusters=n_clusters, metric='euclidean', linkage='ward')
+    clustering_model = AgglomerativeClustering(n_clusters=n_clusters)
+    
+    # 确保矩阵有至少两行数据
+    if cooccurrence_matrix.shape[0] < 2:
+        raise ValueError("Not enough samples for clustering. The matrix must have at least 2 rows.")
+    
     # Print progress during clustering
     step = max(1, cooccurrence_matrix.shape[0] // 10)
     for i in range(0, cooccurrence_matrix.shape[0], step):
         clustering_model.fit(cooccurrence_matrix[:i + step])
         print(f'Clustering progress: {min(i + step, cooccurrence_matrix.shape[0])} words clustered')
-    clustering_model.fit(cooccurrence_matrix)  # Final fit for the entire matrix
+
+    clustering_model.fit(cooccurrence_matrix)
     return clustering_model.labels_
+
+
 
 # Step 5: Save the Results
 def save_results(word_freq, clustering_labels, feature_names):
